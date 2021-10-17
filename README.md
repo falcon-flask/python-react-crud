@@ -3,4 +3,5 @@
 ```
 $ source venv/bin/activate
 $ deactivate
+$ python3 backend/src/app.py
 ```
